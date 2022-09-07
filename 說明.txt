@@ -1,7 +1,0 @@
-aps_month_attendance.py>>>>爬旅安安每月抓的APS月的 排成掛在vm02mfg
-ateam_hr.py>>>>幫翼遠寫的宿舍資料
-ie_pic_test.py>>>秋月/MOMO 固定爬照片 pass給他們 且有教設排程
-m02_departmental_change.py>>>班別異動
-transpose_people.py>>>部門轉調
-Funding_Application.py>>福委會補助(婚喪喜慶)
-blood pressure.py>>>秋月(血壓)
